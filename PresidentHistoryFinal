@@ -1,0 +1,362 @@
+<ul class="timeline">
+
+	<!-- Item 1 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Je Seung You</span>
+				<span class="time-wrapper"><span class="time">2020 – Present</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+  
+	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Colin Brown and Chloe Levin</span>
+				<span class="time-wrapper"><span class="time">2019</span></span>
+			</div>
+			<div class="desc">Co-President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Heidi Hai</span>
+				<span class="time-wrapper"><span class="time">2018</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Catherine Zhao</span>
+				<span class="time-wrapper"><span class="time">2018</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Catherine Zhao and Jackie Ridgley</span>
+				<span class="time-wrapper"><span class="time">2017</span></span>
+			</div>
+			<div class="desc">Co-President</div>
+		</div>
+	</li>
+  	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Claire Seo</span>
+				<span class="time-wrapper"><span class="time">2015-2016</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Hyonjee Joo</span>
+				<span class="time-wrapper"><span class="time">2014-2015</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+      	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Jaclyn Willner</span>
+				<span class="time-wrapper"><span class="time">2013-2014</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">J.T.Ramseur</span>
+				<span class="time-wrapper"><span class="time">2012-2013</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	  	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Stephanie Aligbe</span>
+				<span class="time-wrapper"><span class="time">2011-2012</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Miyako Yerick</span>
+				<span class="time-wrapper"><span class="time">2010-2011</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	  	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Alexandra Voss</span>
+				<span class="time-wrapper"><span class="time">2009-2010</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Michael Chang</span>
+				<span class="time-wrapper"><span class="time">2008-2009</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	  	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Sang Won Kim</span>
+				<span class="time-wrapper"><span class="time">2007-2008</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Rhea Ittoop</span>
+				<span class="time-wrapper"><span class="time">2006-2007</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Kate Brender</span>
+				<span class="time-wrapper"><span class="time">2005-2006</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Christina Carpio</span>
+				<span class="time-wrapper"><span class="time">2004-2005</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Liz Portnoy and Emma Hoyt</span>
+				<span class="time-wrapper"><span class="time">2003-2004</span></span>
+			</div>
+			<div class="desc">Co-President</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Anuj Metha</span>
+				<span class="time-wrapper"><span class="time">2002-2003</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Weiang Lee</span>
+				<span class="time-wrapper"><span class="time">2001-2002</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Young H Kim</span>
+				<span class="time-wrapper"><span class="time">1998-1999</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Asia Liu</span>
+				<span class="time-wrapper"><span class="time">1997-1998</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Sean Chao</span>
+				<span class="time-wrapper"><span class="time">1996-1997</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Chivy Sok</span>
+				<span class="time-wrapper"><span class="time">1995-1996</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Min Bae</span>
+				<span class="time-wrapper"><span class="time"></span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Carlo Romero</span>
+				<span class="time-wrapper"><span class="time">1991-1992</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Wei Wen Lee</span>
+				<span class="time-wrapper"><span class="time">1990-1991</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Wei Nchih Lee</span>
+				<span class="time-wrapper"><span class="time">1989-1990</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Henry Hsiao</span>
+				<span class="time-wrapper"><span class="time">1988-1989</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Joey Perez</span>
+				<span class="time-wrapper"><span class="time">1987-1988</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Richard Sung</span>
+				<span class="time-wrapper"><span class="time">1987</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Paul Marchese</span>
+				<span class="time-wrapper"><span class="time">1986-1987</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Dr. Dennis Chi and Master BM Lee</span>
+				<span class="time-wrapper"><span class="time">1983-1986</span></span>
+			</div>
+			<div class="desc">President</div>
+		</div>
+	</li>
+	
+		<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Dan Davis</span>
+				<span class="time-wrapper"><span class="time">1983</span></span>
+			</div>
+			<div class="desc">Founder</div>
+		</div>
+	</li>
